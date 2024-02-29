@@ -4,6 +4,6 @@
 3. Learn how to setup differentiated compilation (plain, OpenCL, CUDA)
 
 # TODO
-[x] Basic backprop (add, mul) with singular float values
-[ ] Vector(tensor?) enabled backprop using OpenCL
-[ ] Vector(tensor?) enabled backprop using CUDA
+- [x] Basic backprop (add, mul) with singular float values
+- [ ] Vector(tensor?) enabled backprop using OpenCL
+- [ ] Vector(tensor?) enabled backprop using CUDA
